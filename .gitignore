@@ -1,0 +1,27 @@
+# Maven
+target/
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+
+# React
+node_modules/
+dist/
+.env.local
+.vercel
+.netlify
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Our uploads (we don't want real PDFs in git)
+uploads/
